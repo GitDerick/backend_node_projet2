@@ -1,0 +1,16 @@
+{
+  "name": "tec_map",
+  "version": "1.0.0",
+  "description": "TP_TEC_MAP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DERICK AGOUDA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.1"
+  }
+}
